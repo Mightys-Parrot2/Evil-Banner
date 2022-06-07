@@ -7,7 +7,8 @@
 - **```pkg install git```**
 - **```git clone https://github.com/Mightys-Parrot2/Evil-Banner.git```**
 - **```cd Evil-Banner```**
-- **```bash```**
+- **```bash setup.sh```**
+- **```bash ebanner.sh```**
 <h3 align="left">Follow me on Github:
 https://github.com/Mightys-Parrot2.git</h3>
 <p align="left">
