@@ -10,9 +10,12 @@
 - **```bash setup.sh```**
 - **```bash ebanner.sh```**
 <h3 align="left">Follow me on Github:
-https://github.com/Mightys-Parrot2.git</h3>
+https://github.com/Mightys-Parrot2.git </h3>
 <p align="left">
 </p>
 
 <h3 align="left"> usegd Languages:</h3>
-# Bash (shell)
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+
+# Thank for using My tool🚩
+```Wait for my new tool😎```
